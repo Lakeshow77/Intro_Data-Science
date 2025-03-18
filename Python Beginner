@@ -1,7 +1,10 @@
-Introduction to data science is the foundational learning to using of data to create solution to a problem.
-introduction to python
+###Introduction to data science is the foundational learning to using of data to create solution to a problem.
+
+#introduction to python Basics
 
 a = 2
 b = a*4
 print(b)
 
+#Writing string "Hello Universe"
+greeting = "Hello Universe"
